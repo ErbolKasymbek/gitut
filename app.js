@@ -9,9 +9,9 @@ const planets = [
   "Neptun",
 ];
 
-function showArrayItems(arr) {
+function showPlanets(arr) {
   arr.forEach((el) => {
     console.log(el);
   });
 }
-showArrayItems(planets);
+showPlanets(planets);
