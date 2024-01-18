@@ -7,6 +7,7 @@ const planets = [
   "Saturn",
   "Uranus",
   "Neptun",
+  "Pluto",
 ];
 
 function showPlanets(arr) {
