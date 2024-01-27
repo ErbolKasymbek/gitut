@@ -6,7 +6,7 @@ const planets = [
   "Jupiter",
   "Saturn",
   "Uranus",
-  "Neptun",
+  "Neptune",
   "Pluto",
 ];
 const moons = [
